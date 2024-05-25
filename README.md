@@ -1,4 +1,4 @@
-# resumo_javascript
+# Resumo Javascript
 
 Fiz esse resumo para aprender e melhorar o meu entendimento de Javascript. Como acho que me ajudou bastante a ter um entendimento melhor da linguagem, estou disponibilizando a quem quiser acessar.
 
